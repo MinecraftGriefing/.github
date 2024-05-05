@@ -2,8 +2,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=minecraftgriefing&label=Profile%20views&color=0e75b6&style=flat" alt="minecraftgriefing" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=minecraftgriefing" alt="minecraftgriefing" /></a> </p>
-
 - 🔭 I’m currently working on **A project that will be public**
 
 - 👨‍💻 All of my projects are available at [https://minecraftgriefing.com](https://minecraftgriefing.com)
